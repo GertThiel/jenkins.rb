@@ -1,5 +1,8 @@
 # Changelog
 
+## 0.6.0 - 2011/02/10
+* hudson gem has migrated to jenkins
+
 ## 0.5.0 - 2010/12/1
 
 * hudson warfile no longer bundled with hudson gem
